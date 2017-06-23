@@ -6,6 +6,8 @@ This tutorial was developed at the [Microbiome Bioinformatics With QIIME 2 works
 
 ```
 wget https://unite.ut.ee/sh_files/sh_qiime_release_20.11.2016.zip
+wget https://dl.dropboxusercontent.com/u/2868868/temp/sh_refs_qiime_ver7_99_20.11.2016.fasta
+wget https://dl.dropboxusercontent.com/u/2868868/temp/sh_taxonomy_qiime_ver7_99_20.11.2016.txt
 ```
 
 ```
