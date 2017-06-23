@@ -45,7 +45,7 @@ wget -O "mock-25-sample-metadata.tsv" https://raw.githubusercontent.com/caporaso
 wget https://s3-us-west-2.amazonaws.com/mockrobiota/latest/mock-25/mock-forward-read.fastq.gz
 ```
 
-Create a file, `fastqmanifest.csv`, with the following two contents:
+Create a file, `fastqmanifest.csv`, with the following two lines:
 
 ```
 sample-id,absolute-filepath,direction
