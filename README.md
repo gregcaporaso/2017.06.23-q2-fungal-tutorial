@@ -26,7 +26,7 @@ qiime tools import \
 ```
 qiime tools import \
  --type FeatureData[Taxonomy] \
- --input-path /Users/gregcaporaso/temp/fungal-workshop/sh_qiime_release_20.11.2016/sh_taxonomy_qiime_ver7_99_20.11.2016.txt \
+ --input-path sh_taxonomy_qiime_ver7_99_20.11.2016.txt \
  --output-path unite-ver7-99-tax-20.11.2016.qza \
  --source-format HeaderlessTSVTaxonomyFormat
 ```
