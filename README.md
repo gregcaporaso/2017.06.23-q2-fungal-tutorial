@@ -99,3 +99,5 @@ qiime taxa barplot \
   --m-metadata-file mock-25-sample-metadata.tsv \
   --o-visualization taxa-bar-plots.qzv
 ```
+
+The expected composition of this community can be found [here](https://github.com/caporaso-lab/mockrobiota/blob/master/data/mock-25/unite/7-1/99-otus/expected-taxonomy.tsv).
